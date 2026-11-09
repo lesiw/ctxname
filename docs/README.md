@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to [lesiw.io/tools/analyzers/ctxname](https://github.com/lesiw/tools/tree/main/analyzers/ctxname).
+
 # lesiw.io/ctxname
 
 [![Go Reference](https://pkg.go.dev/badge/lesiw.io/ctxname.svg)](https://pkg.go.dev/lesiw.io/ctxname)
